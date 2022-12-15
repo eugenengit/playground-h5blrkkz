@@ -4,6 +4,8 @@ plan:
   statement: markdowns/welcome.md
 - title: part2
   statement: markdowns/part2.md
+- title: Exercice de programmation
+  statement: markdowns/exercice1.md
 projects:
   python:
     root: /python-project
