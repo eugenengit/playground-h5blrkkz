@@ -1,1 +1,1 @@
-@[Écris un programme qui te demande d'entrer la valeur du périmètre d'un rectangle en mètre, puis qui t'affiche la valeur entrée en cm]({"stubs": ["universe.py"], "command": "python3 test_universe.py"})
+@[Écris un programme qui demande d'entrer la valeur, en mètre, du périmètre d'un rectangle, puis qui l'affiche en cm.]({"stubs": ["universe.py"], "command": "python3 test_universe.py"})
